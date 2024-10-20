@@ -1,0 +1,13 @@
+{
+  "name": "kaniko-test-node-server",
+  "author": "Mike Dupree",
+  "version": "1.0.0",
+  "description": "A simple node server for testing kaniko deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
